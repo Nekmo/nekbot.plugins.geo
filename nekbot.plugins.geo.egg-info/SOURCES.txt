@@ -1,5 +1,9 @@
+LICENSE.txt
 MANIFEST.in
 README
+VERSION
+contributors.txt
+requirements.txt
 setup.cfg
 setup.py
 nekbot/__init__.py

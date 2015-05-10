@@ -8,15 +8,15 @@ import uuid
 import sys
 
 AUTHOR = 'Nekmo'
-EMAIL = 'your@email'
+EMAIL = 'contacto@nekmo.com'
 PLUGIN_NAME = 'geo'
 DESCRIPTION = ''
 WEBSITE = 'http://nekmo.com'
 DOWNLOAD_URL = ''
-STATUS_LEVEL = 1  # 1:Planning 2:Pre-Alpha 3:Alpha 4:Beta 5:Production/Stable 6:Mature 7:Inactive
+STATUS_LEVEL = 4  # 1:Planning 2:Pre-Alpha 3:Alpha 4:Beta 5:Production/Stable 6:Mature 7:Inactive
 
 CLASSIFIERS = [
-    # 'License :: OSI Approved :: MIT License',
+    'License :: OSI Approved :: MIT License',
     # 'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
     # 'License :: OSI Approved :: BSD License',
 ]
