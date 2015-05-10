@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: nekbot.plugins.geo
+Version: 0.1.0.0
+Summary: geo, a plugin for NekBot, a modular and multiprotocol bot written in Python.
+Home-page: http://nekmo.com
+Author: Nekmo
+Author-email: your@email
+License: UNKNOWN
+Description: NekBot geo
+        ######################
+        geo plugin. Nekbot, a modular and multiprotocol bot written in Python.
+        
+        Usage:
+        
+        
+        
+        
+        Please! You need NekBot for use this plugin. This plugin not works without NekBot.
+        
+        https://bitbucket.org/Nekmo/nekbot-mirai/
+Keywords: nekbot,bot,geo,plugins,chat
+Platform: linux
+Provides: nekbot.plugins.geo
