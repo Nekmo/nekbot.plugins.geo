@@ -2,7 +2,7 @@ NekBot geo
 ##########
 geo plugin. Nekbot, a modular and multiprotocol bot written in Python.
 
-Usage:
+Usage::
 
     !geo <place or coordenates>
     Return coordenates, place, and extra information.
@@ -10,7 +10,7 @@ Usage:
     !geodistance <place or coordenates 1> <place or coordenates 2>
     Return distance between places.
     
-Example:
+Example::
 
     !geo Madrid
     40.4167047,-3.7035825 Madrid, Área metropolitana de Madrid y Corredor del Henares, Madrid, Comunidad de Madrid, España [city] https://www.openstreetmap.org/relation/4844521
