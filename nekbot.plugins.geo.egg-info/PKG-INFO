@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: nekbot.plugins.geo
-Version: 0.2.0.3
+Version: 0.2.0.4
 Summary: geo, a plugin for NekBot, a modular and multiprotocol bot written in Python.
 Home-page: http://nekmo.com
 Author: Nekmo
@@ -12,10 +12,10 @@ Description: NekBot geo
         
         Usage::
         
-            !geo <place or coordenates>
-            Return coordenates, place, and extra information.
+            !geo <place or coordinates>
+            Return coordinates, place, and extra information.
             
-            !geodistance <place or coordenates 1> <place or coordenates 2>
+            !geodistance <place or coordinates 1> <place or coordinates 2>
             Return distance between places.
             
         Example::
