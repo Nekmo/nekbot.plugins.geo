@@ -4,10 +4,10 @@ geo plugin. Nekbot, a modular and multiprotocol bot written in Python.
 
 Usage::
 
-    !geo <place or coordenates>
-    Return coordenates, place, and extra information.
+    !geo <place or coordinates>
+    Return coordinates, place, and extra information.
     
-    !geodistance <place or coordenates 1> <place or coordenates 2>
+    !geodistance <place or coordinates 1> <place or coordinates 2>
     Return distance between places.
     
 Example::
